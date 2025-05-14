@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "BubbleCap",
+    "slug": "bubblecap",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.rjentenergy.bubblecap",
+      "versionCode": 4,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": []
+    },
+    "ios": {
+      "bundleIdentifier": "com.rjentenergy.bubblecap"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c86da8a8-81f0-45ba-8fa8-52efea5524c4"
+      }
+    },
+    "owner": "piratebg"
+  }
+}
